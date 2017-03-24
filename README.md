@@ -5,6 +5,8 @@ By Angelica Garcia and Joe Wileman
 
 CAP 6121 Assignment 2 - Spring 2017
 
+[![WhenFruitAttack Demo](images/thumbnail.png?raw=true)](https://www.youtube.com/watch?v=Qji-imwxFSE)
+
 ## Introduction
 
 You are trapped in a cave full of nutritious fruit waiting to be eaten. But fruit are disgusting! You’d much rather have a delicious cake or a creamy chocolate-chip cookie. 
@@ -22,43 +24,36 @@ including navigation and voice recognition, are inputted by the Microsoft Kinect
 
 ## Requirements
 
-3D cave environment
-Travel through environment capability
-UI includes score and health
-Ninja Actions:
-Collect cookies and cakes to sustain energy
-Grappling hook used to select fruit and throw
-Finite set of throwing shurikens used to fight enemies
-Stab, slice, chop
-Parry to block incoming fruit attack
-Jump and duck under objects 
-Fly for brief periods of time 
-Call on the fruit gods with to make the fruit moldy, rendering it harmless for a short period of time. 
-Will have to fight various fruits
-Choose up to five different fruits with different abilities
+* 3D cave environment
+* Travel through environment capability
+* UI includes score and health
+* Ninja Actions:
+* Collect cookies and cakes to sustain energy
+* Grappling hook used to select fruit and throw
+* Finite set of throwing shurikens used to fight enemies
+* Stab, slice, chop
+* Parry to block incoming fruit attack
+* Jump and duck under objects 
+* Fly for brief periods of time 
+* Call on the fruit gods with to make the fruit moldy, rendering it harmless for a short period of time. 
+* Will have to fight various fruits
+* Choose up to five different fruits with different abilities
 
 ## Extra Features
 
-Mini map
-Overhead halo locations
-Health bar and score system
-Intro screen
-The project was made using Unity’s collab feature (beta)
+* Mini map
+* Overhead halo locations
+* Health bar and score system
+* Intro screen
+* The project was made using Unity’s collab feature (beta)
 
 ## Working
 
-Navigation: User can navigate through environment by leaning forward, back, or side to side in order to move forward, back, or side to side respectively. 
-The user can also turn the camera left or right by swinging their right and left arms respectively making a turning gesture. 
-Speech: User can use speech in order to spawn shurikens and enable or disable gliding. User can also utilize speech as an alternative to gestures in order 
-to call the fruit gods, chop, slash or stab. Speech is utilized to select a particular fruit, and throw it forward. 
-Gestures: User can use gestures in order to jump, duck, perry, chop, slash, stab, and call the fruit gods. Scene navigation is also accomplished through 
-gestures as explained above.
-Game Logic: User can gain health by collecting a cookie or a cake. User looses health by being hit by a fruit, or the fruit hitting the ground. The user 
-can increase their score by hitting the fruit with the katana or the shurikens. If the user is parrying, the user is not losing health. 
-Fruit Spawn: Fruit are randomly spawned at different intensities throughout the environment at certain waypoints. 
-The apple slices in two when hit once and user but hit both remaining slices to receive score.  The banana peels when hit once and becomes completely peeled 
-when hit again. User does not gain point until the banana is hit a third time. The strawberry is multiplied into four when hit once and the user must hit 
-all duplicates to gain score. The pear only needs one hit to get points and the kiwi moves really fast.
+* Navigation: User can navigate through environment by leaning forward, back, or side to side in order to move forward, back, or side to side respectively. The user can also turn the camera left or right by swinging their right and left arms respectively making a turning gesture. 
+* Speech: User can use speech in order to spawn shurikens and enable or disable gliding. User can also utilize speech as an alternative to gestures in order to call the fruit gods, chop, slash or stab. Speech is utilized to select a particular fruit, and throw it forward. 
+* Gestures: User can use gestures in order to jump, duck, perry, chop, slash, stab, and call the fruit gods. Scene navigation is also accomplished through gestures as explained above.
+* Game Logic: User can gain health by collecting a cookie or a cake. User looses health by being hit by a fruit, or the fruit hitting the ground. The user can increase their score by hitting the fruit with the katana or the shurikens. If the user is parrying, the user is not losing health. 
+* Fruit Spawn: Fruit are randomly spawned at different intensities throughout the environment at certain waypoints. The apple slices in two when hit once and user but hit both remaining slices to receive score.  The banana peels when hit once and becomes completely peeled when hit again. User does not gain point until the banana is hit a third time. The strawberry is multiplied into four when hit once and the user must hit all duplicates to gain score. The pear only needs one hit to get points and the kiwi moves really fast.
 
 ## Improvements
 
@@ -78,10 +73,10 @@ and gestures instead of only one or the other. Also instead of having the user j
 
 ## Future Work
 
-Here are a few ideas we had or couldn’t get to in time for the project:
-Add a portal from one side of the maze to the other
-Add cool light effects to giant fruit (liberate 4.1 darkness)
-Add extra sounds
+* Here are a few ideas we had or couldn’t get to in time for the project:
+* Add a portal from one side of the maze to the other
+* Add cool light effects to giant fruit (liberate 4.1 darkness)
+* Add extra sounds
 
 ## Division of Work
 
