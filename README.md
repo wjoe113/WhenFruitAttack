@@ -23,7 +23,7 @@ fruit gods (make fruit moldy), chop, slash, stab, and fruit (to grab the fruit).
 player when within reach. The bosses are a bit harder to kill but take damage from the katana, shurikens, and mold just like other fruit. All of the controls, 
 including navigation and voice recognition, are inputted by the Microsoft Kinect. 
 
-## Requirements
+## Requirements 
 
 * 3D cave environment
 * Travel through environment capability
