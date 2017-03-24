@@ -6,6 +6,7 @@ By Angelica Garcia and Joe Wileman
 CAP 6121 Assignment 2 - Spring 2017
 
 [![WhenFruitAttack Demo](images/thumbnail.png?raw=true)](https://www.youtube.com/watch?v=Qji-imwxFSE)
+YouTube Video ^
 
 ## Introduction
 
