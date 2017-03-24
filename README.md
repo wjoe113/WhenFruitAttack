@@ -81,7 +81,7 @@ and gestures instead of only one or the other. Also instead of having the user j
 
 ## Division of Work
 
-### Angelica’s Work
+### Angelica
 * Navigation heuristics
 * The cave
 * Waypoints
@@ -92,7 +92,7 @@ and gestures instead of only one or the other. Also instead of having the user j
 * Intro scene animation
 * Giant fruit behavior
 
-### Joe’s Work
+### Joe
 * Navigation heuristics
 * The cave
 * Katana animation and sound
